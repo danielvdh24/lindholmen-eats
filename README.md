@@ -1,6 +1,6 @@
 ![Teaser](./images/teaser.png)
 
-**LindholmenEats** is a user-friendly restaurant app for ordering food. Enjoy easy access to a variety of restaurant offerings all in one place!
+LindholmenEats is a web-based application for ordering food, offering customers easy access to a variety of restaurant options in one convenient platform. Built with Vue.js for a responsive and dynamic user experience, LindholmenEats uses MongoDB to store food items, order information, and user data. The app sends requests to handle tasks such as retrieving menu items and processing orders, ensuring a seamless experience for customers.
 
 ## Pages
 
