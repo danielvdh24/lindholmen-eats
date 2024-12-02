@@ -16,7 +16,7 @@ LindholmenEats is a web-based application for ordering food - built with Vue.js 
 * **Career:** Careers page
 * **Data:** Information about how we process user data
 
-## Getting started
+## Getting Started
 
 ```bash
 # Clone repository
@@ -34,7 +34,7 @@ cd client && npm install
 npm run serve
 ```
 
-# Create .env file in root folder of project (not the server folder)
+## Set Up the .env
 Place the following in the .env file:
 ```
 MONGODB_URI=mongodb+srv://USERNAME:PASSWORD@cluster0.ADDRESS.mongodb.net/restaurant-app
