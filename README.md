@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./images/teaser.png" alt="Teaser" height="550px">
-</p>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/531ae39b-be26-4622-88ff-745cd2b8e583" height="370px">
+</div>
 
-LindholmenEats is a web-based application for ordering food, offering customers easy access to a variety of restaurant options in one convenient platform. Built with Vue.js for a responsive and dynamic user experience, LindholmenEats uses MongoDB to store food items, order information, and user data. The app sends requests to handle tasks such as retrieving menu items and processing orders, ensuring a seamless experience for customers.
+LindholmenEats is a web-based application for ordering food - built with Vue.js for a responsive and dynamic user experience. The web app leverages MongoDB to store food items, order details, and user data while handling requests for retrieving menu items and processing orders to deliver a seamless customer experience.
 
 ## Pages
 
@@ -11,7 +11,7 @@ LindholmenEats is a web-based application for ordering food, offering customers 
 * **Signup:** customers can optionally create an account
 * **Login:** customers can optionally login
 * **User Info:** a page which allows logged in users to modify their account details
-* **About:** Story of LindholmenEats
+* **About:** story of LindholmenEats
 * **Location:** Location of restaurant from Google Map api
 * **Career:** Careers page
 * **Data:** Information about how we process user data
@@ -44,4 +44,4 @@ Replace USERNAME, PASSWORD, ADDRESS according to our MongoDB Atlas instance.
 
 ## Entity-Relationship (ER) Diagram
 
-![ER Diagram](./images/er_diagram.png)
+<img src="./images/er_diagram.png" alt="ER Diagram" height="400">
